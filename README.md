@@ -25,4 +25,4 @@ real-world problems, with a background in psychology and human behavior.
 Coming soon.
 
 ### Connect
-- LinkedIn: [your LinkedIn]
+- LinkedIn: www.linkedin.com/in/ariba-syed 
