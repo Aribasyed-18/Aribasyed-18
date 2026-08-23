@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Ariba
 
-<!--
-**Aribasyed-18/Aribasyed-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist | Applied AI | Machine Learning
 
-Here are some ideas to get you started:
+I'm building practical data science and AI solutions focused on
+real-world problems, with a background in psychology and human behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working on
+- Data Science
+- Machine Learning
+- Applied AI
+- NLP & LLM applications
+
+### Technical Skills
+- Python
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+- Statistics
+- Machine Learning
+- Data Visualization
+
+### Featured Projects
+Coming soon.
+
+### Connect
+- LinkedIn: [your LinkedIn]
